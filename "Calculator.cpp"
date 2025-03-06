@@ -1,6 +1,19 @@
 Console.WriteLine("Jamila Fatima");
 Console.WriteLine("24-St-042);
 
+
+Code for Division:
+int num1 = 18;
+int num2 = 20;
+int product = num1 / num2;
+Console.WriteLine("The division between" + num1 +" and " + num2 + "is" + division);
+
+
+Code for Multiplication:
+int num1 = 18;
+int num2 = 20;
+int product = num1 × num2;
+Console.WriteLine("The product between" + num1 +" and " + num2 + "is" + product);
 Code for Substraction:
 int num1 = 18;
 int num2 = 20;
@@ -12,4 +25,6 @@ int num2 = 16;
 int sum = num1 + num2
 Console.WriteLine("The sum of " + num1 + "add" + num2 + "is :" + sum);
 
+
+ main
 
